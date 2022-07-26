@@ -46,5 +46,5 @@ One challenge that others may face when analyzing this dataset is picking the be
 
 - What are some other possible tables and/or graphs that we could create?
     - We can perform a descriptive analysis on the data (goal and pledged amounts) to find the central tendency and variability and plot it on a Box and Whisker chart for visualization.
-- We could also analyze the data by filtering the country to check where theatre campaigns have the highest chance of success.
-- In ser a line chart to understand the trend in theatre campaign funding 
+    - We could also analyze the data by filtering the country to check where theatre campaigns have the highest chance of success.
+    - In ser a line chart to understand the trend in theatre campaign funding 
