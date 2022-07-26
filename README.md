@@ -34,9 +34,9 @@ One challenge that others may face when analyzing this dataset is picking the be
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-    - The best month to launch a Kickstarter campaign is May.
+    - The best month to launch a Kickstarter campaign is May, followed by June.
     - The worst month to launch a Kickstarter campaign is December.
-        - This leads to the question what outside influences can we attribute this to.  Is it possible that backers have higher disposable income due to tax returns in April?  Is it possible backers have less disposable income around the holiday season?
+    - The highest number of theatre cancellations are in January.
 - What can you conclude about the Outcomes based on Goals?
     - Campaigns with a goal of less than 1000 were the most successful followed by campaigns with a goal from 1,000 to 5,000.  
 
@@ -45,4 +45,6 @@ One challenge that others may face when analyzing this dataset is picking the be
     - This dataset has a country field however we are not able to drill down further into the states, provinces, or territories.  Specifically, for plays it may be helpful to deep dive into the cities. 
 
 - What are some other possible tables and/or graphs that we could create?
-    - I would be interested in creating a table and chart to help analyze how the length of a campaign impacts the outcome.  We can perform this analysis using the date “Date Created Conversion” and “Date Ended Conversion” fields to get the campaign length. 
+    - We can perform a descriptive analysis on the data (goal and pledged amounts) to find the central tendency and variability and plot it on a Box and Whisker chart for visualization.
+- We could also analyze the data by filtering the country to check where theatre campaigns have the highest chance of success.
+- In ser a line chart to understand the trend in theatre campaign funding 
