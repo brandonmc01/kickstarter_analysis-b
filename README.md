@@ -18,7 +18,7 @@ The focal point of this analysis is understanding how the outcome of a theater c
 - 37 canceled
  
 Next, we create a line chart to help examine the relationship of outcomes and their launch month. 
-! PNGS/Theater Outcomes by Launch Date.png
+!https://github.com/brandonmc01/kickstarter_analysis-b/blob/2bcd250cb3355a7f29a9abcceb494e6a67af8430/PNGS/Theater%20Outcomes%20by%20Launch%20Date.png
 
 The focal point of our next analysis is understanding how the outcome of theater campaign are affected by the funding goal amount.  For this analysis we create a goal to percentage table.  
 
