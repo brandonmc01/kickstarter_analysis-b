@@ -22,11 +22,11 @@ Next, we create a line chart to help examine the relationship of outcomes and th
 
 The focal point of our next analysis is understanding how the outcome of theater campaign are affected by the funding goal amount.  For this analysis we create a goal to percentage table.  
 
-![Table](/kickstarter_anaylsis/PNGS/Percentage to goal.png)
+!https://github.com/brandonmc01/kickstarter_analysis-b/blob/32800f4da34a9a5ae96a1a79ca8c1b77f0d7b1e0/PNGS/Percentage%20to%20goal.png
 
 We then create a line chart visualizing the outcome of the Kickstarter campaign based on the goal.
 
-![Outcomes_vs_Goals](/kickstarter_anaylysis/PNGS/Outcome Based on Goals.png)
+!https://github.com/brandonmc01/kickstarter_analysis-b/blob/2bcd250cb3355a7f29a9abcceb494e6a67af8430/PNGS/Outcome%20Based%20on%20Goals.png
 
 ### Challenges and Difficulties Encountered
 One challenge that others may face when analyzing this dataset is picking the best column, row, and value fields when creating their pivot tables.  
